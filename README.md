@@ -10,7 +10,7 @@ Generating the configuration space of the blue Robot and red Obstacle
 ### Compiling
 ```sh
 $ cd /home/workspace/
-$ git clone https://github.com/udacity/RoboND-MinkowskiSum
+$ git clone https://github.com/karimchamaa/RoboND-MinkowskiSum
 $ cd RoboND-MinkowskiSum/
 $ g++ minkowski_sum.cpp -o app -std=c++11 -I/usr/include/python2.7 -lpython2.7
 ```
